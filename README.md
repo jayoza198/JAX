@@ -20,4 +20,4 @@ Key Concepts in JAX:
 Getting Started:
 To get started with JAX, you need to install the library by running ```pip install jax``` 
 
-JAX has a few dependencies, such as NumPy and a compatible version of the XLA compiler (which is automatically installed with JAX).
+JAX has a few dependencies, such as NumPy and a compatible version of the XLA compiler (which is automatically installed with JAX)
